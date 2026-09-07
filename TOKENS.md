@@ -57,3 +57,6 @@ All 60+ tokens are built on the Stellar network and can be explored on:
 ---
 
 *Building in public. Sharing everything I learn. 🚀*
+---
+
+**Last updated:** September 9, 2026
